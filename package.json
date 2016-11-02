@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      "bandname",
+      "/Users/carlos/Repositorios/akandi.com/server"
+    ]
+  ],
+  "_from": "bandname@*",
+  "_id": "bandname@1.0.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/bandname",
+  "_nodeVersion": "4.0.0",
+  "_npmUser": {
+    "email": "david@banham.id.au",
+    "name": "davidbanham"
+  },
+  "_npmVersion": "2.14.2",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "bandname",
+    "raw": "bandname",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "*",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/bandname/-/bandname-1.0.0.tgz",
+  "_shasum": "a936cee507650cefe1de1f274241a30f8628854f",
+  "_shrinkwrap": null,
+  "_spec": "bandname",
+  "_where": "/Users/carlos/Repositorios/akandi.com/server",
+  "author": {
+    "name": "david@banham.id.au"
+  },
+  "bugs": {
+    "url": "https://github.com/Prismatik/bandname/issues"
+  },
+  "dependencies": {},
+  "description": "Random name generator",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "a936cee507650cefe1de1f274241a30f8628854f",
+    "tarball": "https://registry.npmjs.org/bandname/-/bandname-1.0.0.tgz"
+  },
+  "gitHead": "7bd7c9d2787b4c1567d113d511f27b7673a1b791",
+  "homepage": "https://github.com/Prismatik/bandname",
+  "keywords": [
+    "generator",
+    "name",
+    "names",
+    "random"
+  ],
+  "license": "ISC",
+  "main": "bandname.js",
+  "maintainers": [
+    {
+      "name": "davidbanham",
+      "email": "david@banham.id.au"
+    }
+  ],
+  "name": "bandname",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prismatik/bandname.git"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "version": "1.0.0"
+}
